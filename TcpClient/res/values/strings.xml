@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TcpClient</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txt_ip">IP:</string>
+    <string name="edit_ip">192.168.0.10</string>
+    <string name="txt_port">Port:</string>
+    <string name="edit_port">10003</string>
+    <string name="btn_connect">Connect</string>
+    <string name="btn_disconnect">Disconnect</string>
+    <string name="txt_receive">Receive:</string>
+    <string name="edit_receive"></string>
+    <string name="txt_send">Send:</string>
+    <string name="edit_send"></string>
+    <string name="btn_send">Send</string>
+
+</resources>
